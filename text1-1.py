@@ -1,5 +1,9 @@
+#-*- coding:utf-8 -*-
+#姓名： 刘天威
+#学号： 1403050108
+#班级： 通风一班
+#第三次作业修改有关最喜欢的歌词
 print 'I am sailing'
-print 'home again' 
 print 'cross the sea'
 print 'I am sailing'
 print 'stormy waters'
@@ -27,10 +31,6 @@ print 'We are sailing we are sailing,home again cross the sea'
 print 'We are sailing stormy waters'
 print 'to be near you'
 print ' to be free'
-print 'Oh Lord'
-print 'to be near you'
-print 'to be free'
-print 'Oh Lord'
-print ' to be near you'
-print ' to be free'
-print 'Oh Lord'
+print 'Oh Lord
+
+
